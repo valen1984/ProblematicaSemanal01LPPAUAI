@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Libre Franklin,sans-serif;
+    color: #1f1f1f;
+
+}
+
+.noticia {
+    width: 50%;
+    height: 100%;
+    margin-right: 40%;
+}
+
+.menutit {
+    background-color: orange;
+    font-family: Raleway,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+}
+
+.tits {
+    margin-top:7px;
+    margin-left:10px;
+}
+
+.h3hist {
+    margin-top:40px;
+    color: orange;
+}
+
+.autora {
+    font-weight:bold;
+    margin-bottom:10px;   
+}
+
+.subtexto1 {
+    color:grey;
+}
