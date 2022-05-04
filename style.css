@@ -28,6 +28,11 @@ body {
     margin-left:10px;
 }
 
+.h2ultnotis {
+    font-weight: bold;
+    color:black;
+}
+
 .h3hist {
     margin-top:40px;
     color: orange;
@@ -41,3 +46,23 @@ body {
 .subtexto1 {
     color:grey;
 }
+
+.contenedor {
+    display: inline;
+    width: 100%;
+}
+
+.noti1 {
+    display:flex;
+    width: 100%;
+    height: 200px;
+}
+.spannotis {
+    width: 400px;
+}
+
+.imgfinal {
+    width: 250px;
+    margin-left:50px;
+}
+
