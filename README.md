@@ -1,20 +1,34 @@
-# ProblematicaSemanal4
-# Creacion de archivo index3.html y style.css
-Proponemos buscar una nueva noticia en inglés o español, pero debemos prestar atención al contenido HTML y también al estilo. La problemática de esta semana consiste en crear un nuevo documento HTML incluyendo el estilo CSS para lograr que al visualizar la página se vea idéntica al diario original. 
+# ProblematicaSemanal5
+# Creacion de archivo index3.html, style.css y mediaqueries.css
+CRITERIO DE EVALUACIÓN
 
-Por último deberán crear un documento README al repositorio donde queden explícitas las URLs de las noticias originales para que los tutores puedan comparar.
 
-Encontrar en algún diario online una noticia actual en inglés o español.
-INFOBAE
 
-Dentro del proyecto creado para la semana 2, agregar un nuevo archivo HTML.
-Copiar la noticia respetando los elementos semánticos HTML dentro de la estructura del documento.
-Crear un archivo CSS para darle estilo al HTML creado para la nueva noticia y lograr una apariencia lo más similar posible a la noticia original.
+En este trabajo práctico se introducen los conceptos de selectores, atributos y Layout para agregar estilos a la noticia:
 
-https://www.infobae.com/historias/2022/05/03/durmio-con-hienas-sobrevivio-al-abuso-y-sigue-siendo-modelo-top-maye-musk-la-madre-del-hombre-mas-rico-el-mundo/
+Correcta implementación de break points para lograr diseño responsivo.
 
+Correcto uso del box-model para lograr un diseño prolijo.
+
+Utilización de selectores en el archivo CSS.
+
+Utilizar la metodología Mobile First.
+
+Subir el archivo al repositorio creado previamente en GitHub.
+
+
+
+ENUNCIADO
+
+
+
+La problemática de esta semana consiste en reutilizar el documento HTML incluyendo el estilo CSS de la semana anterior para lograr que al visualizar la página se vea idéntica al diario original en sus diferentes tamaños utilizando Media Queries y metodología Mobile First.
+
+
+
+Realizar una copia de la carpeta trabajada en la semana anterior.
+Sobre los archivos nuevos, realizar los cambios necesarios para implementar las Medias Queries y la metodología Mobile First para lograr una correcta visualización para cualquiera sea la medida del navegador.
 Guardar los cambios en GIT y subirlos a Github manteniendo el repositorio de la semana 2.
-Crear un documento README.md dentro de la carpeta del proyecto (en caso de ya tener uno, utilizar el existente) y explicitar las URLs de las noticias originales.
-
+Crear un documento readme.md dentro de la carpeta del proyecto (en caso de ya tener uno, utilizar el existente) y explicitar las URLs de las noticias originales con su respectiva entrega 05, 04, etc....
 Guardar todos los cambios y subirlos a Github, pegando como respuesta de la problemática semanal, la URL del nuevo HTML creado en Github.
 
