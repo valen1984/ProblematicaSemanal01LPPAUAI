@@ -1,5 +1,27 @@
-# ProblematicaSemanal6
+# ProblematicaSemanal6 - Cont. Problematica 9 Javascript
 # Creacion de archivo index.html, style.css y mediaqueries.css
+
+La problemática de la clase 09 consiste en agregar una página de suscripción al diario online desarrollado en la clase 06. Manteniendo el repositorio original, agregar un nuevo archivo html que mantenga la estética del diario, su cabecera y pie de página, y que contenga un formulario de suscripción para lectores o directamente reutilizar el formulario realizado en la actividad 6. El formulario debe contener los siguientes campos: Nombre, apellido, email, contraseña, teléfono y dirección (sin ciudad y codigo postal) . Además debe contar con un botón “Enviar”. El diseño debe ser responsive, de modo que si se visualiza el formulario desde un celular se deben mostrar los campos uno abajo del otro, pero si se ve desde un monitor de PC los campos se deben mostrar separados en dos columnas, con el botón enviar solo al final del formulario y centrado en medio de las dos columnas.
+
+Se debe validar cada campo y mostrar un mensaje de error descriptivo abajo del campo que falló. Realizar las siguientes validaciones:
+
+Nombre y apellido: Debe tener más de 3 letras 
+Email: Debe tener un formato de email válido.
+Contraseña: Al menos 8 caracteres, formados por letras y números.
+Teléfono: Número de al menos 7 dígitos, no aceptar espacios, guiones ni paréntesis.
+Dirección: Al menos 5 caracteres, con letras, números y un espacio en el medio.
+
+
+La validación de cada campo se debe realizar en el evento “blur” de cada uno de los campos. Además, si algún campo tiene un error de validación, en el evento “focus” de dicho campo debe desaparecer el mensaje porque se asume que el usuario está corrigiendo el error.
+
+Al presionar el botón “Enviar” se debe mostrar los errores debajo de cada campo (si lo hubiera). 
+
+En caso de que haya pasado todas las validaciones, se puede optar de mostrar el éxito de la manera que quieran (cartel emergente, cambio de color de un titulo, mensaje de éxito). Este último punto no es obligatorio.
+
+
+
+
+
 CRITERIO DE EVALUACIÓN
 
 
